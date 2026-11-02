@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /images/private/
+
+Sitemap: https://YOUR-USERNAME.github.io/hope-community-food-bank/sitemap.xml
